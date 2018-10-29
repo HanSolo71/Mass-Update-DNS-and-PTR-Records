@@ -1,0 +1,7 @@
+zone,hostname,ip
+test.com,ApplicationServer1,10.0.1.92
+test.com,ApplicationServer2,10.0.0.210
+test.com,ApplicationServer3,10.0.1.113
+test.com,ApplicationServer4,10.0.1.35
+test.com,ApplicationServer5,10.0.1.100
+test.com,ApplicationServer6,10.0.1.143

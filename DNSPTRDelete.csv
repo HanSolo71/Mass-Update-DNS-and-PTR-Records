@@ -1,0 +1,7 @@
+reversezone,lowip,fqdn
+1.0.10.in-addr.arpa,10,ApplicationServer1.test.com
+1.0.10.in-addr.arpa,11,ApplicationServer2.test.com
+1.0.10.in-addr.arpa,12,ApplicationServer3.test.com
+1.0.10.in-addr.arpa,13,ApplicationServer4.test.com
+1.0.10.in-addr.arpa,14,ApplicationServer5.test.com
+1.0.10.in-addr.arpa,15,ApplicationServer6.test.com
